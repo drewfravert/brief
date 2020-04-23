@@ -9,11 +9,6 @@ Maecenas sed diam eget risus varius blandit sit amet non magna. Vivamus sagittis
 
 ![Template](assets/template.png)
 
-### Contacts
-| Manager                                  | Designer                                 | Frontend Developer                       | Backend Developer                        |
-| :--------------------------------------- | :--------------------------------------- | :--------------------------------------- | :--------------------------------------- |
-| [@username](https://github.com/username) | [@username](https://github.com/username) | [@username](https://github.com/username) | [@username](https://github.com/username) |
-
 ## Contents
   * [Motivation](#motivation)
   * [Stories](#stories)
@@ -23,6 +18,7 @@ Maecenas sed diam eget risus varius blandit sit amet non magna. Vivamus sagittis
   * [Goals](#goals)
   * [Metrics](#metrics)
   * [Roadmap](#roadmap)
+  * [Discussion](#discussion)
 
 
 ## Motivation
@@ -82,3 +78,10 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 ### Long Term
   * [x] Complete item
   * [ ] Incomplete item
+
+## Discussion
+Discussion around this brief can be found in the **`#example`** Slack channel. For questions and support please reach out to the designated contacts below.
+
+| Manager                                  | Designer                                 | Developer                                |
+| :--------------------------------------- | :--------------------------------------- | :--------------------------------------- |
+| [@username](https://github.com/username) | [@username](https://github.com/username) | [@username](https://github.com/username) |

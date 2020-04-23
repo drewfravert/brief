@@ -10,9 +10,9 @@ Maecenas sed diam eget risus varius blandit sit amet non magna. Vivamus sagittis
 ![Template](assets/template.png)
 
 ### Contacts
-| Product | Design | Engineering |
-|:--------|:-------|:------------|
-| [@username](https://github.com/username) | [@username](https://github.com/username) | [@username](https://github.com/username) |
+| Manager                                  | Designer                                 | Frontend Developer                       | Backend Developer                        |
+| :--------------------------------------- | :--------------------------------------- | :--------------------------------------- | :--------------------------------------- |
+| [@username](https://github.com/username) | [@username](https://github.com/username) | [@username](https://github.com/username) | [@username](https://github.com/username) |
 
 ## Contents
   * [Motivation](#motivation)
@@ -45,14 +45,14 @@ Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id do
 
 ## Stories
 
-### Story A
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. [Read complete story →](STORY.md)
+### [Story A](stories/STORY.md)
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. [Read full story →](stories/STORY.md)
 
-### Story B
-Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Sed posuere consectetur est at lobortis. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. [Read complete story →](STORY.md)
+### [Story B](stories/STORY.md)
+Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Sed posuere consectetur est at lobortis. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. [Read full story →](stories/STORY.md)
 
-### Story C
-Maecenas sed diam eget risus varius blandit sit amet non magna. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [Read complete story →](STORY.md)
+### [Story C](stories/STORY.md)
+Maecenas sed diam eget risus varius blandit sit amet non magna. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [Read full story →](stories/STORY.md)
 
 
 ## Requirements

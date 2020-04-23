@@ -1,5 +1,7 @@
 # Product Brief
 
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE.md)
+
 Document providing critical information the design and development teams need to effectively build and launch a product. The central source of information for preparation and execution.
 
 ## Getting Started

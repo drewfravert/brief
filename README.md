@@ -2,7 +2,7 @@
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE.md)
 
-Source document providing the critical information the design and development teams need to effectively build and launch a product.
+Document providing the critical information the design & development teams need to effectively build and launch a product.
 
 [View Template →](dist/TEMPLATE.md)
 

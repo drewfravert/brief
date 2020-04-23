@@ -2,7 +2,7 @@
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE.md)
 
-Document providing critical information the design and development teams need to effectively build and launch a product. The central source of information for preparation and execution.
+Source document providing the critical information the design and development teams need to effectively build and launch a product.
 
 [View Template →](dist/TEMPLATE.md)
 

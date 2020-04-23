@@ -1,4 +1,4 @@
-# Product Name & Context
+# Product Name
 ![Product Context](https://img.shields.io/badge/context-application-blue)
 ![Product Category](https://img.shields.io/badge/category-feature-blue)
 [![Product Status](https://img.shields.io/badge/status-planning-blue)](https://github.com/organization/repository/issues/)
@@ -9,22 +9,19 @@ Maecenas sed diam eget risus varius blandit sit amet non magna. Vivamus sagittis
 
 ![Template](assets/template.png)
 
+### Contacts
+| Product | Design | Engineering |
+|:--------|:-------|:------------|
+| [@username](https://github.com/username) | [@username](https://github.com/username) | [@username](https://github.com/username) |
 
 ## Contents
-  * [Team](#team)
   * [Motivation](#motivation)
-  * [User Stories](#user-stories)
+  * [Stories](#stories)
   * [Workflow](#workflow)
   * [Requirements](#requirements)
   * [Goals](#goals)
   * [Metrics](#metrics)
   * [Roadmap](#roadmap)
-
-
-## Team
-  * **Manager:** [@username](https://github.com/username)
-  * **Designer:** [@username](https://github.com/username)
-  * **Developer:** [@username](https://github.com/username)
 
 
 ## Motivation
@@ -46,17 +43,16 @@ Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare ve
 Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam id dolor id nibh ultricies vehicula ut id elit. Etiam porta sem malesuada magna mollis euismod. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
 
 
-## User Stories
+## Stories
 
 ### Story A
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur.
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. [Read complete story →](STORY.md)
 
 ### Story B
-Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Sed posuere consectetur est at lobortis. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Sed posuere consectetur est at lobortis. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. [Read complete story →](STORY.md)
 
-
-## Workflow
-![Template](assets/template.png)
+### Story C
+Maecenas sed diam eget risus varius blandit sit amet non magna. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [Read complete story →](STORY.md)
 
 
 ## Requirements

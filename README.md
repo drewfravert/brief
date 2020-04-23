@@ -4,6 +4,8 @@
 
 Document providing critical information the design and development teams need to effectively build and launch a product. The central source of information for preparation and execution.
 
+[View Template →](dist/TEMPLATE.md)
+
 ## Getting Started
 
 To start using this template, you may either:
@@ -14,4 +16,4 @@ To start using this template, you may either:
 
 ## License
 
-The repository is available under the [MIT license](LICENSE.md).
+This repository is available under the [MIT license](LICENSE.md).

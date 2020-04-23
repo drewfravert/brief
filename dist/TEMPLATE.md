@@ -7,9 +7,9 @@ Maecenas sed diam eget risus varius blandit sit amet non magna. Vivamus sagittis
 
 ## Owners
 
-  * **Manager:** @username
-  * **Designer:** @username
-  * **Developer:** @username
+  * **Manager:** [@username](https://github.com/username)
+  * **Designer:** [@username](https://github.com/username)
+  * **Developer:** [@username](https://github.com/username)
 
 ## Overview
 

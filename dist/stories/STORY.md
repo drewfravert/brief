@@ -1,5 +1,5 @@
 # Story A
-The full narrative of a singular user story for the relevant product.
+The full narrative of a singular user story for the product.
 
 ![Template](../assets/template.png)
 

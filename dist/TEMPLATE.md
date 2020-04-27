@@ -38,9 +38,10 @@ Postulation regarding how the product will affect the organization. Be it financ
 
 
 ## Stories
+The narratives of the different user journeys served by the product.
 
 ### [Story A](stories/STORY.md)
-The narratives of the different user journeys served by the product. [Read full story →](stories/STORY.md)
+Summary of a singular user story for the product. [Read full story →](stories/STORY.md)
 
 
 ## Requirements

@@ -71,7 +71,7 @@ The fully featured product timeline. What gets the product to MVP? What would ma
   * [ ] Incomplete item
 
 ## Discussion
-Discussion around this brief can be found in the **[#example](https://organization.slack.com/)** Slack channel. For questions and support please reach out to the designated contacts below.
+Discussion around this brief can be found in the [#example](https://organization.slack.com/) Slack channel. For questions and support please reach out to the designated contacts below.
 
 | Manager                                  | Designer                                 | Developer                                |
 | :--------------------------------------- | :--------------------------------------- | :--------------------------------------- |

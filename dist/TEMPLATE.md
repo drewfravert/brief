@@ -1,11 +1,12 @@
 # Product Name
+![Product Priority](https://img.shields.io/badge/priority-0-blue)
 ![Product Context](https://img.shields.io/badge/context-application-blue)
 ![Product Category](https://img.shields.io/badge/category-feature-blue)
 [![Product Status](https://img.shields.io/badge/status-planning-blue)](https://github.com/organization/repository/issues/)
 ![Product Version](https://img.shields.io/badge/version-0.0.0-blue)
 [![Product Owner](https://img.shields.io/badge/owner-@username-blue)](https://github.com/username)
 
-Maecenas sed diam eget risus varius blandit sit amet non magna. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+The executive summary of the product, what user problem it solves, how it works and why it is needed.
 
 ![Template](assets/template.png)
 
@@ -22,50 +23,40 @@ Maecenas sed diam eget risus varius blandit sit amet non magna. Vivamus sagittis
 
 
 ## Motivation
-Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus. Aenean lacinia bibendum nulla sed consectetur.
+The *"why"* behind the product proposal. Why are we proposing this? Does it fit within our organizational mission and values? Does it endear trust?
 
-  * Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  * Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor
-  * Nullam id dolor id nibh ultricies vehicula ut id elit
-  * Curabitur blandit tempus porttitor
-  * Aenean eu leo quam
+**If the *"why"* isn't clear, perhaps neither is the product.**
 
 ### Who is this for?
-Maecenas faucibus mollis interdum. Vestibulum id ligula porta felis euismod semper. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+The user segment who benefits from the product.
 
-### What need does this fill?
-Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+### What need does this solve?
+Justification outlining why the product warrants organizational time and effort.
 
-### How does this benefit the organization?
-Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam id dolor id nibh ultricies vehicula ut id elit. Etiam porta sem malesuada magna mollis euismod. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+### How is the organization impacted?
+Postulation regarding how the product will affect the organization. Be it financially, socially or otherwise.
 
 
 ## Stories
 
 ### [Story A](stories/STORY.md)
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. [Read full story →](stories/STORY.md)
+The narratives of the different user journeys served by the product. [Read full story →](stories/STORY.md)
 
 
 ## Requirements
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper.
-
-  * Aenean lacinia bibendum nulla sed consectetur
-  * Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  * Aenean eu leo quam
-  * Pellentesque ornare sem lacinia quam venenatis vestibulum
-  * Morbi leo risus, porta ac consectetur ac, vestibulum at eros
+The staff, resources, technologies, etc. that would be needed to successfully implement the product.
 
 
 ## Goals
-Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Etiam porta sem malesuada magna mollis euismod. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+The expected outcome of the product should be. What does success for the product look like.
 
 
 ## Metrics
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+What can be tracked within the product to measure the successes outlined in Goals. How will these metrics be analyzed?
 
 
 ## Roadmap
-Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+The fully featured product timeline. What gets the product to MVP? What would make it good? What would make it great?
 
 ### Current
   * [x] Complete item
@@ -80,7 +71,7 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
   * [ ] Incomplete item
 
 ## Discussion
-Discussion around this brief can be found in the **`#example`** Slack channel. For questions and support please reach out to the designated contacts below.
+Discussion around this brief can be found in the **[`#example`](https://organization.slack.com/)** Slack channel. For questions and support please reach out to the designated contacts below.
 
 | Manager                                  | Designer                                 | Developer                                |
 | :--------------------------------------- | :--------------------------------------- | :--------------------------------------- |

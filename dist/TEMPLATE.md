@@ -23,7 +23,7 @@ The executive summary of the product, what user problem it solves, how it works 
 
 
 ## Motivation
-The **why** behind the product proposal. Why are we proposing this? Does it fit within our organizational mission and values? Does it endear trust?
+The *why* behind the product proposal. Why are we proposing this? Does it fit within our organizational mission and values? Does it endear trust?
 
 *If the "why" isn't clear, perhaps neither is the product.*
 
@@ -57,19 +57,19 @@ What can be tracked within the product to measure the successes outlined in Goal
 
 
 ## Roadmap
-The fully featured product timeline. What gets the product to MVP? What would make it good? What would make it great?
+A complete vision plan for this product. What gets the product to MVP? What would make it good? What would make it great?
 
 ### Current
-  * [x] Complete item
-  * [ ] Incomplete item
+  * [x] Complete
+  * [ ] Incomplete
 
 ### Near Term
-  * [x] Complete item
-  * [ ] Incomplete item
+  * [x] Complete
+  * [ ] Incomplete
 
 ### Long Term
-  * [x] Complete item
-  * [ ] Incomplete item
+  * [x] Complete
+  * [ ] Incomplete
 
 ## Discussion
 Discussion around this brief can be found in the [#example](https://organization.slack.com/) Slack channel. For questions and support please reach out to the designated contacts below.

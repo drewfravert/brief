@@ -23,9 +23,9 @@ The executive summary of the product, what user problem it solves, how it works 
 
 
 ## Motivation
-The *"why"* behind the product proposal. Why are we proposing this? Does it fit within our organizational mission and values? Does it endear trust?
+The **why** behind the product proposal. Why are we proposing this? Does it fit within our organizational mission and values? Does it endear trust?
 
-**If the *"why"* isn't clear, perhaps neither is the product.**
+*If the "why" isn't clear, perhaps neither is the product.*
 
 ### Who is this for?
 The user segment who benefits from the product.
@@ -71,7 +71,7 @@ The fully featured product timeline. What gets the product to MVP? What would ma
   * [ ] Incomplete item
 
 ## Discussion
-Discussion around this brief can be found in the **[`#example`](https://organization.slack.com/)** Slack channel. For questions and support please reach out to the designated contacts below.
+Discussion around this brief can be found in the **[#example](https://organization.slack.com/)** Slack channel. For questions and support please reach out to the designated contacts below.
 
 | Manager                                  | Designer                                 | Developer                                |
 | :--------------------------------------- | :--------------------------------------- | :--------------------------------------- |

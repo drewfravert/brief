@@ -31,10 +31,10 @@ The *why* behind the product proposal. Why are we proposing this? Does it fit wi
 The user segment who benefits from the product.
 
 ### What need does this solve?
-Justification outlining why the product warrants organizational time and effort.
+Why the product warrants organizational time and effort.
 
 ### How is the organization impacted?
-Postulation regarding how the product will affect the organization. Be it financially, socially or otherwise.
+How the product will affect the organization. Be it financially, socially or otherwise.
 
 
 ## Stories
@@ -45,11 +45,11 @@ Summary of a singular user story for the product. [Read full story →](stories/
 
 
 ## Requirements
-The staff, resources, technologies, etc. that would be needed to successfully implement the product.
+The esources, technologies, etc. that are needed to successfully deliver the product.
 
 
 ## Goals
-The expected outcome of the product should be. What does success for the product look like.
+The expected outcomes of the product. What does success look like?
 
 
 ## Metrics
